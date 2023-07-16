@@ -3,6 +3,7 @@
 
 
 ## steps:
+0. run npm start
 1. If you don't have an account on https://openweathermap.org/api, please create a new one.
 2. Find the API key, and create a new file named: .env. Please add the following fields: PORT and API_KEY."
 for example:
